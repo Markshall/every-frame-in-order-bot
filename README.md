@@ -12,7 +12,7 @@ If you make an account running this bot, crediting [@pigeonburger](https://twitt
 
 - A cool TV show
 - Python version >=3.6
-- `tweepy` (install using `pip install tweepy`) 
+- `tweepy` (install using `pip install -U tweepy`) 
 - A Twitter account with the twitter API consumer key + secret, and access token + secret (with Write permissions).
 - [`FFmpeg`](https://ffmpeg.org) (only for initial setup - splitting the show into frames)
 
